@@ -1,6 +1,7 @@
 # Codewars
 ---
 ## Description
+
 This is my solutions on katas from [Codewars](https://www.codewars.com/ "Сайт Codewars|Site Codewars")  
 They are not great but I want to post it here :3
 ---
@@ -18,6 +19,6 @@ They are not great but I want to post it here :3
 ### Java - 8kyu
 | Difficulty | Original kata                                                                  | My Solution                     |
 | ---------- |:------------------------------------------------------------------------------:| -------------------------------:|
-| 6kyu       | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Are_You_Playing_Banjo](https://github.com/Faleay/Codewars/blob/main/Java/8kyu/Are_You_Playing_Banjo/Solution.java) |
-| 6kyu       | Empty                                                                          | Empty                           |
-| 6kyu       | Empty                                                                          | Empty                           |
+| 8kyu       | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Are_You_Playing_Banjo](https://github.com/Faleay/Codewars/blob/main/Java/8kyu/Are_You_Playing_Banjo/Solution.java) |
+| 8kyu       | Empty                                                                          | Empty                           |
+| 8kyu       | Empty                                                                          | Empty                           |
