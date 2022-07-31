@@ -15,9 +15,9 @@ They are not great but I want to post it here :3
 ### Java - 6kyu
 
 | Difficulty | Original kata                                                                  | My Solution                     |
-| ---------- |:------------------------------------------------------------------------------:| -------------------------------:|
+| :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
 | 6kyu       | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/java)    | [valid-braces.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/valid-braces.java) |
-| 6kyu       | Empty                                                                          | Empty                           |
+| 6kyu       | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)                                                                          | [which-are-in.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/which-are-in.java)                           |
 | 6kyu       | Empty                                                                          | Empty                           |
 
 ### Java - 8kyu
