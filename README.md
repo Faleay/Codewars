@@ -1,11 +1,11 @@
 # Codewars
-## Description
+### Description
 
 This is my solutions on katas from [Codewars](https://www.codewars.com/ "Сайт Codewars|Site Codewars")  
 They are not great but I want to post it here :3
 
 ---
-## Java solutions
+### Java solutions
 
 - [8kyu](#java---8kyu)
 - [6kyu](#java---6kyu)
