@@ -16,7 +16,7 @@ They are not great but I want to post it here :3
 
 | Difficulty | Original kata                                                                  | My Solution                     |
 | ---------- |:------------------------------------------------------------------------------:| -------------------------------:|
-| 6kyu       | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/java)    | [valid-braces](тут типа ссылка) |
+| 6kyu       | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/java)    | [valid-braces.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/valid-braces.java) |
 | 6kyu       | Empty                                                                          | Empty                           |
 | 6kyu       | Empty                                                                          | Empty                           |
 
@@ -24,6 +24,6 @@ They are not great but I want to post it here :3
 
 | Difficulty | Original kata                                                                  | My Solution                     |
 | ---------- |:------------------------------------------------------------------------------:| -------------------------------:|
-| 8kyu       | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Are_You_Playing_Banjo](https://github.com/Faleay/Codewars/blob/main/Java/8kyu/Are_You_Playing_Banjo/Solution.java) |
+| 8kyu       | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Are_You_Playing_Banjo.java](https://github.com/Faleay/Codewars/blob/main/Java/8kyu/Are_You_Playing_Banjo.java) |
 | 8kyu       | Empty                                                                          | Empty                           |
 | 8kyu       | Empty                                                                          | Empty                           |
