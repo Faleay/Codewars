@@ -1,7 +1,6 @@
 # Codewars
----
-
 ## Description
+
 This is my solutions on katas from [Codewars](https://www.codewars.com/ "Сайт Codewars|Site Codewars")  
 They are not great but I want to post it here :3
 
