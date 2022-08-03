@@ -47,4 +47,4 @@ They are not great but I want to post it here :3
 | 6kyu       | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace-with-alphabet-position.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/replace-with-alphabet-position.py) |
 | 6kyu       | [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [the-supermarket-queue.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/the-supermarket-queue.py) |
 | 6kyu       | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
-| 6kyu       | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
+| 6kyu       | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738) | [good-vs-evil.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/good-vs-evil.py) |
