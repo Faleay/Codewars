@@ -26,6 +26,7 @@ They are not great but I want to post it here :3
 | 6kyu       | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) | [break-camelcase.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/break-camelcase.java) |
 | 6kyu       | [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give-me-a-diamond.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/give-me-a-diamond.java) |
 | 6kyu       | [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise-racing.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/tortoise-racing.java) |
+| 6kyu       | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [stop-spinning-my-words.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/stop-spinning-my-words.java) |
 
 ### Java - 8kyu
 
@@ -46,3 +47,4 @@ They are not great but I want to post it here :3
 | 6kyu       | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace-with-alphabet-position.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/replace-with-alphabet-position.py) |
 | 6kyu       | [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [the-supermarket-queue.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/the-supermarket-queue.py) |
 | 6kyu       | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
+| 6kyu       | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
