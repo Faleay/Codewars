@@ -13,8 +13,6 @@ class Palindrome
         {
             System.out.println("It isn't a palindrome");
         }
-        // System.out.println(palindrome);
-        // System.out.println(reversed);
     }
 
     public static void main(String[] args)
