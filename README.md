@@ -27,6 +27,7 @@ They are not great but I want to post it here :3
 | 6kyu       | [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give-me-a-diamond.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/give-me-a-diamond.java) |
 | 6kyu       | [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise-racing.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/tortoise-racing.java) |
 | 6kyu       | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [stop-spinning-my-words.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/stop-spinning-my-words.java) |
+| 6kyu       | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | [two-sum.java](https://github.com/Faleay/Codewars/blob/main/Java/6kyu/two-sum.java) |
 
 ### Java - 8kyu
 
