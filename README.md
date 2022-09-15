@@ -7,6 +7,7 @@ They are not great but I want to post it here :3
 ---
 ### Java solutions
 
+- [5kyu](#java---5kyu)
 - [6kyu](#java---6kyu)
 - [8kyu](#java---8kyu)
 
@@ -15,6 +16,12 @@ They are not great but I want to post it here :3
 
 - [5kyu](#python---5kyu)
 - [6kyu](#python---6kyu)
+
+### Java - 5kyu
+
+| Difficulty | Original kata                                                                  | My Solution                     |
+| :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
+| 5kyu       | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/java) | [valid-braces.java](https://github.com/Faleay/Codewars/blob/main/Java/5kyu/RgbToHex.java) |
 
 ### Java - 6kyu
 
