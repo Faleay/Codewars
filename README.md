@@ -21,7 +21,7 @@ They are not great but I want to post it here :3
 
 | Difficulty | Original kata                                                                  | My Solution                     |
 | :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
-| 5kyu       | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/java) | [valid-braces.java](https://github.com/Faleay/Codewars/blob/main/Java/5kyu/RgbToHex.java) |
+| 5kyu       | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/java) | [RgbToHex.java](https://github.com/Faleay/Codewars/blob/main/Java/5kyu/RgbToHex.java) |
 
 ### Java - 6kyu
 
