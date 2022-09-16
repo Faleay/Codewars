@@ -22,6 +22,7 @@ They are not great but I want to post it here :3
 | Difficulty | Original kata                                                                  | My Solution                     |
 | :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
 | 5kyu       | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/java) | [RgbToHex.java](https://github.com/Faleay/Codewars/blob/main/Java/5kyu/RgbToHex.java) |
+| 5kyu       | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/solutions/java) | [GreedIsGood.java](https://github.com/Faleay/Codewars/blob/main/Java/5kyu/GreedIsGood.java) |
 
 ### Java - 6kyu
 
