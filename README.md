@@ -7,6 +7,7 @@ They are not great but I want to post it here :3
 ---
 ### Java solutions
 
+- [4kyu](#java---4kyu)
 - [5kyu](#java---5kyu)
 - [6kyu](#java---6kyu)
 - [8kyu](#java---8kyu)
@@ -16,6 +17,12 @@ They are not great but I want to post it here :3
 
 - [5kyu](#python---5kyu)
 - [6kyu](#python---6kyu)
+
+### Java - 4kyu
+
+| Difficulty | Original kata                                                                  | My Solution                     |
+| :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
+| 4kyu       | [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | [LongestSlideDown.java](https://github.com/Faleay/Codewars/blob/main/Java/4kyu/LongestSlideDown.java) |
 
 ### Java - 5kyu
 
