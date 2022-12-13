@@ -50,6 +50,12 @@ They are not great but I want to post it here :3
 | :--------: |:------------------------------------------------------------------------------:| :------------------------------:|
 | 8kyu       | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Are_You_Playing_Banjo.java](https://github.com/Faleay/Codewars/blob/main/Java/8kyu/Are_You_Playing_Banjo.java) |
 
+### Python - 4kyu
+
+| Difficulty | Original kata                                                                  | My Solution                     |
+| :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
+| 4kyu       | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/python) | [snail.py](https://github.com/Faleay/Codewars/blob/main/Python/4kyu/snail.py) |
+
 ### Python - 5kyu
 
 | Difficulty | Original kata                                                                  | My Solution                     |
