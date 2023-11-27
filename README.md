@@ -62,6 +62,7 @@ They are not great but I want to post it here :3
 | :----------: |:------------------------------------------------------------------------------:| :-------------------------------:|
 | 5kyu       | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [human-readable-time.py](https://github.com/Faleay/Codewars/blob/main/Python/5kyu/human-readable-time.py) |
 | 5kyu       | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) | [pick_peaks.py](https://github.com/Faleay/Codewars/blob/main/Python/5kyu/pick_peaks.py) |
+| 5kyu       | [Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1) | [beeramid.py](https://github.com/Faleay/Codewars/blob/main/Python/5kyu/beeramid.py) |
 
 ### Python - 6kyu
 
