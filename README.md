@@ -15,6 +15,7 @@ They are not great but I want to post it here :3
 ---
 ### Python solutions
 
+- [4kyu](#python---4kyu)
 - [5kyu](#python---5kyu)
 - [6kyu](#python---6kyu)
 
