@@ -82,6 +82,12 @@ They are not great but I want to post it here :3
 | 6kyu       | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
 | 6kyu       | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738) | [good-vs-evil.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/good-vs-evil.py) |
 
+### Rust - 6kyu
+
+|Difficulty|Original Kata                                                                           |My Solution                                                                                                                  |
+|:--------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+|6kyu      |[Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/rust)|[training-on-unique-in-order.rs](https://github.com/Faleay/Codewars/blob/main/Rust/6kyu/training-on-unique-in-order.rs)|
+
 ### Rust - 7kyu
 
 |Difficulty|Original Kata                                                                           |My Solution                                                                                                                  |
