@@ -21,6 +21,7 @@ They are not great but I want to post it here :3
 ---
 ### Rust solutions
 
+- [7kyu](#rust---7kyu)
 - [8kyu](#rust---8kyu)
 
 ---
@@ -80,6 +81,12 @@ They are not great but I want to post it here :3
 | 6kyu       | [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [the-supermarket-queue.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/the-supermarket-queue.py) |
 | 6kyu       | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [your-order-please.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/your-order-please.py) |
 | 6kyu       | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738) | [good-vs-evil.py](https://github.com/Faleay/Codewars/blob/main/Python/6kyu/good-vs-evil.py) |
+
+### Rust - 7kyu
+
+|Difficulty|Original Kata                                                                           |My Solution                                                                                                                  |
+|:--------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+|7kyu      |[Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e)|[count-the-divisors-of-a-number.rs](https://github.com/Faleay/Codewars/blob/main/Rust/7kyu/count-the-divisors-of-a-number.rs)|
 
 ### Rust - 8kyu
 
