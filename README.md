@@ -93,3 +93,4 @@ They are not great but I want to post it here :3
 |Difficulty|Original Kata                                                        |My Solution                                                                          |
 |:--------:|:-------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
 |8kyu      |[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)|[power-of-2.rs](https://github.com/Faleay/Codewars/blob/main/Rust/8kyu/power-of-2.rs)|
+|8kyu      |[Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)|[return-negative.rs](https://github.com/Faleay/Codewars/blob/main/Rust/8kyu/return-negative.rs)|
