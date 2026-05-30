@@ -21,6 +21,7 @@ They are not great but I want to post it here :3
 ---
 ### Rust solutions
 
+- [6kyu](#rust---6kyu)
 - [7kyu](#rust---7kyu)
 - [8kyu](#rust---8kyu)
 
