@@ -83,6 +83,6 @@ They are not great but I want to post it here :3
 
 ### Rust - 8kyu
 
-|Difficulty|Original Kata                                                        |My Solution      |
-|:--------:|:-------------------------------------------------------------------:|:---------------:|
-|8kyu      |[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)|[power-of-2.rs]()|
+|Difficulty|Original Kata                                                        |My Solution                                                                          |
+|:--------:|:-------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+|8kyu      |[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)|[power-of-2.rs](https://github.com/Faleay/Codewars/blob/main/Rust/8kyu/power-of-2.rs)|
